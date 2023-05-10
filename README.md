@@ -1,2 +1,2 @@
 # repolfersan
-Mi primero repositorio en GitHub
+Mi primer repositorio en GitHub
